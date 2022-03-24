@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWLbuZXtMere6XpBCRiYKC3+2aRUJxHKT58G4yA1R7u6dhfXqRA2ivuzENWz5XbpopChI6eyjeDUE7X8IO1ShQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayberk Baydar\\Documents\\GitHub\\SignalR-RabbitMQ-RealTime-Sending-Mail\\ApiExample\\ApiExample\\ApiExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayberk Baydar\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Ayberk Baydar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ayberk Baydar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
